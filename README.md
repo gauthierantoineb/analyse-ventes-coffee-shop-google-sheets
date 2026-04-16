@@ -47,7 +47,7 @@ Le dataset contient des transactions de ventes avec des informations comme :
 - `moment_journee`
 - `ordre_moment_journee`
 
-> À compléter : source d’origine du dataset et licence si disponible.
+source d’origine du dataset : https://www.kaggle.com/datasets/rifatalam3/coffee-revenue-dataset?resource=download
 
 ---
 
