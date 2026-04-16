@@ -149,18 +149,29 @@ Cette analyse présente plusieurs limites :
 
 ---
 
+## Compétences démontrées
+
+- Nettoyage et préparation de données transactionnelles
+- Création de variables dérivées dans Google Sheets
+- Construction de KPI business
+- Analyse produit et analyse temporelle
+- Création de tableaux croisés dynamiques
+- Data storytelling et recommandations opérationnelles
+
 ## Structure du dépôt
 
 ```text
-analyse-ventes-coffee-shop/
+analyse-ventes-coffee-shop-google-sheets/
 │
 ├── README.md
 ├── donnees/
-│   └── coffee_sales.xlsx
+│   └── Coffe_sales (1).xlsx
 ├── captures/
-│   ├── 01_vue_ensemble_rapport.png
-│   ├── 02_analyse_produit.png
-│   ├── 03_analyse_temporelle_haut.png
-│   └── 04_analyse_temporelle_bas.png
+│   ├── 1_donnees_brutes.png
+│   ├── 2_donnees_nettoyees.png
+│   ├── 3_kpi.png
+│   ├── 4_analyse_produit.png
+│   ├── 5_analyse_temporelle.png
+│   └── 6_rapport.png
 └── livrables/
     └── rapport_ventes_coffee_shop.pdf
